@@ -1,7 +1,7 @@
 # Unmasking Deception: A Topic-Oriented Multimodal Approach to Uncover False Information on Social Media
 
 ## How it works
-**TM-FID** *(Topic-oriented Multimodal False Information Detection)* is a deep learning methodology for multimodal topi-oriented false information detection in online news published on social media platforms.
+**TM-FID** *(Topic-oriented Multimodal False Information Detection)* is a deep learning methodology for multimodal topic-oriented false information detection in online news published on social media platforms.
 
 - *Identification of main topics*: Using BERTopic, the methodology extracts the main topics of discussion underlying social media conversation, considering both text and images.
 - *False Information Detection*: TM-FID assesses the presence of false information present in social posts, through a multimodal classification model enhanced with a cross-attention fusion mechanism.

@@ -11,3 +11,6 @@ By following a multimodal and topic-oriented approach, **TM-FID** allows for a d
 
 ## Reproducibility
 This repository hosts all the code (Jupyter notebooks) necessary for reproducing experiments. The dataset used, namely *FakeNewsNet* was originally provided by *Shu, K. et al.*, and it is publicly available at the following link: https://github.com/KaiDMML/FakeNewsNet/tree/master
+
+## How to cite
+Cantini, R., Cosentino, C., Kilanioti, I. et al. Unmasking deception: a topic-oriented multimodal approach to uncover false information on social media. Mach Learn 114, 13 (2025). https://doi.org/10.1007/s10994-024-06727-4
